@@ -1,4 +1,5 @@
-📚 Alberto Acosta - Sitio Web del Autor /n
+📚 Alberto Acosta - Sitio Web del Autor
+
 Un sitio web moderno y multiidioma para el autor Alberto Acosta, presentando sus libros y biografía con soporte completo para 4 idiomas.
 
 🌟 Características
