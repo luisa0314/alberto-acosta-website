@@ -2,7 +2,9 @@
 
 Un sitio web moderno y multiidioma para el autor Alberto Acosta, presentando sus libros y biografía con soporte completo para 4 idiomas.
 
+
 🌟 Características
+
 🌍 Multiidioma: Soporte completo para Español, Inglés, Francés y Portugués
 📱 Responsive: Diseño adaptable para todos los dispositivos
 🎨 Moderno: Interfaz elegante con Tailwind CSS y componentes Shadcn/ui
